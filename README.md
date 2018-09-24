@@ -13,11 +13,13 @@ Cette mise en situation doit permettre de mieux comprendre et appréhender la di
  * de tenir les dates de rendu 
  * de valider de manière continue les exigences et l’implémentation
  
+Les objectifs et l'organisation de PDL sont décrits dans un document au format PDF disponible dans le dossier resources: projetPDL2018-2019.pdf
+ 
 ## Projet: Wikipedia Matrix 
 
 L'objectif du projet PDL 2018-2019 est d’extraire des tableaux au format CSV à partir de pages Wikipedia. 
-Le projet est décrit dans un document au format PDF disponible dans cet espace. 
- 
+Le projet est décrit dans un document au format PDF disponible dans le dossier resources: projetPDL2018-2019-WikipediaMatrix.pdf 
+
 ## Années précédentes 
  
 Matériel des années précédentes: http://mathieuacher.com/teaching/PDL/
