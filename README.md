@@ -4,7 +4,7 @@
 Ce module se déroule à l'Université de Rennes 1, ISTIC, en Master 1 (MIAGE).
 L'objectif de PDL est de mener à bien un projet logiciel avec des technologies et données ouvertes. De nombreux défis sont à relever, nécessitant des compétences en gestion de projet, en modélisation, et en programmation.
 
-Cette mise en situation doit permettre de mieux comprendre et appréhender la difficulté de développer du logiciel dans un contexte extrêmement concret. Des techniques et outils (git, github, Maven, JUnit, etc.) de développement logiciel, bien connus de l’industrie, seront utilisés. Des choix technologiques devront également être effectuées. Il est attendu de la part de chaque étudiant de PDL de démontrer qu’elle ou il est capable :
+Cette mise en situation doit permettre de mieux comprendre et appréhender la difficulté de développer du logiciel dans un contexte extrêmement concret. Des techniques et outils (git, github, Maven, JUnit, etc.) de développement logiciel, bien connus de l’industrie, seront utilisés. Des choix technologiques devront également être effectués. Il est attendu de la part de chaque étudiant de PDL de démontrer qu’elle ou il est capable :
  * de comprendre l’existant (exigences, spécificité des technologies et du domaine d’application, architecture, format des données, etc.) 
  * de contribuer très concrètement à un projet à la fois au niveau du code (cas de tests, ajouts de fonctionnalités, refactoring, etc.), de la documentation, ou de la mise en œuvre de l’intégration continue
  * de maîtriser un ensemble de technologies (Java et son écosystème, CSV, JSON, JUnit, API Web, etc.) et de techniques (e.g., test) importantes 
