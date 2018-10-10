@@ -25,7 +25,7 @@ http://tinyurl.com/MIAGE-PDL1819
 
 ## Dates de rendu
 
- * EX : 20 octobre 2018 (23h59)  
+ * EX : 27 octobre ~~20 octobre 2018~~ (23h59)  
  * SP : 20 décembre 2018 (23h59)
  * PR : mi-janvier 2019
 
