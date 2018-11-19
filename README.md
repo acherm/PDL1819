@@ -18,10 +18,12 @@ Les objectifs et l'organisation de PDL sont décrits dans [un document au format
 ## Projet: Wikipedia Matrix 
 
 L'objectif du projet PDL 2018-2019 est d’extraire des tableaux au format CSV à partir de pages Wikipedia. 
-Le projet est décrit dans [un document au format PDF](resources/projetPDL2018-2019-WikipediaMatrix.pdf)
+Le projet est décrit dans [un document au format PDF](https://github.com/acherm/PDL1819/blob/master/resources/projetPDL2018-2019-WikpediaMatrix.pdf)
 
 La composition des groupes est à remplir en ligne avant le 27 septembre, 13h:
 http://tinyurl.com/MIAGE-PDL1819 
+
+**Un projet Maven est disponible pour participer au [concours d'extraction](https://github.com/acherm/wikipediamatrix-bench)**: il faut intégrer le code de vos extracteurs et générer les fichiers CSV dans le dossier "output".
 
 ## Dates de rendu
 
